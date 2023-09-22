@@ -14,12 +14,10 @@ body {
   text-align: center;
 }
 
+/*.navigation .main-content */
+
 .italicized-text {
   font-style: italic;
-}
-
-#red {
-  color: red;
 }
 
 @media screen and (max-width: 768px) {
